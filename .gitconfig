@@ -51,3 +51,6 @@
 
 [mergetool]
     keepBackup      = true
+
+[push]
+    default         = "simple"
