@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# run this file with the following command
+# curl -s https://raw.githubusercontent.com/guillaumepotier/dotfiles/master/install_gitconfig.sh | bash
+
 # this file is used to install the gitconfig file to the user's home directory
 # retrieve gitconfigfile here https://raw.githubusercontent.com/guillaumepotier/dotfiles/master/.gitconfig
 file=".gitconfig"
